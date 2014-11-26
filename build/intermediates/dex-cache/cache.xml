@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/alain/dev/android/myschool/VolleyExamples2/app/build/intermediates/pre-dexed/debug/simple-xml-2.4.1-92cb002a826b3753b5f7fb5cc2a915ed905f4e96.jar"
+        jar="/Users/alain/dev/android/myschool/VolleyExamples2/app/libs/simple-xml-2.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="314910df77771b33c481a175fbde56fd9295d58a"/>
+    <item
+        dex="/Users/alain/dev/android/myschool/VolleyExamples2/app/build/intermediates/pre-dexed/debug/library-1.0.8-f42b927d15f12a1c0628212d0ec7295de78e40bb.jar"
+        jar="/Users/alain/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.8/ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2/library-1.0.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2"/>
+    <item
+        dex="/Users/alain/dev/android/myschool/VolleyExamples2/app/build/intermediates/pre-dexed/debug/volley-45a3bbedc3756f33db0ea8c0fafe005f3ea0cd0d.jar"
+        jar="/Users/alain/dev/android/myschool/VolleyExamples2/app/libs/volley.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c"/>
+
+</pre-dex-items>
